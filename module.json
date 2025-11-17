@@ -1,0 +1,21 @@
+{
+  "id": "custom-elements-pf2e",
+  "title": "PF2e - Custom Damage Types, Traditions & Schools",
+  "description": "Ajoute des types de dégâts, traditions et écoles personnalisés au système Pathfinder 2e.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "systems": [
+    {
+      "id": "pf2e",
+      "compatibility": {
+        "minimum": "5.9.0"
+      }
+    }
+  ],
+  "scripts": [
+    "scripts/custom-elements.js"
+  ]
+}
