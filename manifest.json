@@ -1,0 +1,10 @@
+{
+  "name": "custom-elements-pf2e",
+  "title": "PF2e Custom Elements",
+  "description": "Ajoute des types de dégâts, traditions et écoles personnalisés.",
+  "version": "1.0.0",
+  "download": "https://github.com/Esotirat/custom-elements-pf2e/archive/refs/heads/main.zip",
+  "manifest": "https://github.com/Esotirat/custom-elements-pf2e/raw/main/manifest.json",
+  "compatibleCoreVersion": "13",
+  "minimumCoreVersion": "13"
+}
